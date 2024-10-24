@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="quixlab-bootstrap-main">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/image/quixlab-bootstrap-main.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
